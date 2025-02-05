@@ -24,3 +24,5 @@ The e-learning platform represents a transformative educational solution that de
 #Enter the distripction of the task performed no less than 500 words
 
 **output** : ![Image](https://github.com/user-attachments/assets/9ffccb84-33ae-413f-9705-dca1adf7f548)
+
+**output** :  ![Image](https://github.com/user-attachments/assets/d6f27d98-dc22-4f80-8747-d97ce55a0f0e)
